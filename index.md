@@ -1,25 +1,25 @@
 ---
-title: Online Hosted Instructions
+title: Инструкции, размещенные в Интернете
 permalink: index.html
 layout: home
 ---
 
-# Content Directory
+# Папка содержимого
 
-Hyperlinks to each of the lab exercises and demos are listed below.
+Гиперссылки на все задания и ролики приведены ниже.
 
-## Labs
+## Задания
 
 {% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" %}
-| Module | Lab |
+| Модуль | Задание |
 | --- | --- | 
 {% for activity in labs  %}| {{ activity.lab.module }} | [{{ activity.lab.title }}{% if activity.lab.type %} - {{ activity.lab.type }}{% endif %}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
 
-## Demos
+## Ролики
 
 {% assign demos = site.pages | where_exp:"page", "page.url contains '/Instructions/Demos'" %}
-| Module | Demo |
+| Модуль | Демонстрация |
 | --- | --- | 
 {% for activity in demos  %}| {{ activity.demo.module }} | [{{ activity.demo.title }}]({{ site.github.url }}{{ activity.url }}) |
 {% endfor %}
