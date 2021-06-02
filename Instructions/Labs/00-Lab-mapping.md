@@ -1,15 +1,15 @@
-# DP-900 trainer lab mapping
+# Сопоставление лабораторных работ для преподавателя DP-900
 
-This course, DP-900: Microsoft Azure Data Fundamentals, has a set of labs designated for instructor-led training. 
+Этот курс, DP-900: В курсе «Основы данных в Microsoft Azure» имеется ряд лабораторных работ для выполнения под руководством инструктора. 
 
-> Note: Instructors may choose ask students to complete one or more labs on their own time by using the exercises in the associated Learn learning paths (https://docs.microsoft.com/users/23110622/collections/0kjyh8rn5gdrjj). 
+> Примечание. Инструкторы могут попросить учащихся выполнить одну или несколько лабораторных работ вне уроков, используя упражнения, приведенные в соответствующей схеме обучения Learn (https://docs.microsoft.com/users/23110622/collections/0kjyh8rn5gdrjj). 
 
-## DP-900 module mapping to labs
+## Сопоставление модулей DP-900 с лабораторными работами
 
-| DP-900 Trainer Lab | Topic | Markdown File |
+| Лабораторная работа для преподавателя DP-900 | Раздел | Файл Markdown |
 | --- | --- | --- |
-| 01: DP-900 Module 02 | Provision Azure relational database services | [01-Provision-Azure-relational-database-services.md](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/01-Provision-Azure-relational-database-services.md) |
-| 02: DP-900 Module 02 | Use SQL to query Azure SQL Database learning in Azure Machine Learning | [https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/02-Use-SQL-to-query-Azure-SQL-Database.md) |
-| 03: DP-900 Module 03 | Provision non-relational Azure data services  | [03-Provision-non-relational-Azure-data-services.md](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/03-Provision-non-relational-Azure-data-services.md) |
-| 04: DP-900 Module 03 | Upload, download, and query data in a non-relational data store | [04-Upload-download-and-query-data-in-a-non-relational-data-store.md](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/04-Upload-download-and-query-data-in-a-non-relational-data-store.md) |
+| 01: DP-900 модуль 02 | Подготовка служб реляционных баз данных Azure | [01-Provision-Azure-relational-database-services.md](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/01-Provision-Azure-relational-database-services.md) |
+| 02: DP-900 модуль 02 | Использование SQL для запросов базы данных Azure SQL в машинном обучении Azure | [https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/02-Use-SQL-to-query-Azure-SQL-Database.md) |
+| 03: DP-900 модуль 03 | Подготовка служб нереляционных данных Azure  | [03-Provision-non-relational-Azure-data-services.md](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/03-Provision-non-relational-Azure-data-services.md) |
+| 04: DP-900 модуль 03 | Передача, загрузка и запрос данных в нереляционном хранилище данных | [04-Upload-download-and-query-data-in-a-non-relational-data-store.md](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/04-Upload-download-and-query-data-in-a-non-relational-data-store.md) |
 

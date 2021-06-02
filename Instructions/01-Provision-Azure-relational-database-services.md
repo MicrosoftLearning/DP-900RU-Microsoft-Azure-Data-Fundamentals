@@ -1,6 +1,7 @@
 ---
 lab:
-    title: 'Подготовка служб реляционных баз данных Azure'
+    title: 'Круг 1. Подготовка служб реляционных баз данных Azure'
+    module: 'Модуль 2. Изучение реляционных данных в Azure'
 ---
 
 ## Инструкции
@@ -8,4 +9,4 @@ lab:
 
 В рамках этой лабораторной работы вам предстоит создать и настроить один из следующих серверов для Azure: SQL Server, PostgreSQL или MySQL.
 
-1.	Перейдите к упражнению Microsoft Learn по ссылке https://docs.microsoft.com/learn/modules/explore-provision-deploy-relational-database-offerings-azure/7-exercise-provision-relational-azure-data-services?pivots=azuresql и выполните урок в браузере. 
+1.	Перейдите к упражнению Microsoft Learn по ссылке https://aka.ms/dp900lab01-rus и выполните урок в браузере. 
