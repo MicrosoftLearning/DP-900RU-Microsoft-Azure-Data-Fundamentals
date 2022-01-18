@@ -1,3 +1,12 @@
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.ru-ru) on December 18th 2021. We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.ru-ru).
+
 # Основы данных в Microsoft Azure
 
 Этот репозиторий содержит упражнения для практических занятий по курсу Microsoft [DP-900 *Основы данных в Microsoft Azure*](https://docs.microsoft.com/ru-ru/learn/certifications/courses/dp-900t00) и [модули для обучения в произвольном темпе на платформе Microsoft Learn](https://docs.microsoft.com/ru-ru/users/23110622/collections/0kjyh8rn5gdrjj/). Задания предоставляются вместе с учебными материалами и позволяют выработать практические навыки использования технологий, описанных в них. 
